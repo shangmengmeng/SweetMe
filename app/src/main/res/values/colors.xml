@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#40A1EC</color>
+    <color name="colorPrimaryDark">#40A1EC</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color_text_selected">#ef0909</color>
+    <color name="color_text_normal">#000000</color>
+
+
+    <color name="color_stoke_1">#6b9b72</color>
+    <color name="color_stoke_2">#dadada</color>
+    <color name="color_stoke_3">#c7c7c7</color>
+
+    <color name="color_bc_1">#f3f3f3</color>
+
+    <color name="color_txt_1">#343434</color>
+    <color name="color_txt_2">#b1b1b1</color>
+</resources>
